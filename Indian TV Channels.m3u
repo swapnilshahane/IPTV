@@ -20,11 +20,7 @@ http://pn.tvott.info:80/477845056156344/477845056156344/83625
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NewsX_Logo.png" NEWS X
 http://pn.tvott.info:80/477845056156344/477845056156344/83583
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" TIMES NOW HD
-http://pn.tvott.info:80/477845056156344/477845056156344/83607
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/300px-Republic_TV.jpg" REPUBLIC TV
-http://pn.tvott.info:80/477845056156344/477845056156344/83638
-#EXTINF:-1 group-title="News" tvg-logo="https://cdn.livenewsnow.com/wp-content/uploads/2015/11/Sahara-Samay-1.png" SAHARA NEWS NATIONAL
-http://pn.tvott.info:80/477845056156344/477845056156344/83579
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/SaharaOne2010.png/300px-SaharaOne2010.png" SAHARA ONE
 http://pn.tvott.info:80/477845056156344/477845056156344/83578
 #EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Zee_Hindustan_2018_Logo.jpg/revision/latest/scale-to-width-down/250?cb=20181215082901" ZEE HINDUSTAN NEWS
