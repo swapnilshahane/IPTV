@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/TSvkIfA.png",DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+http://z5ams.akamaized.net/ddnews/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/rOrQj07.png",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",AAJ TAK HD
