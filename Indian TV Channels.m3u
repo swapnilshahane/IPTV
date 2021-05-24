@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/TSvkIfA.png",DD News
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/rOrQj07.png",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",AAJ TAK HD
@@ -15,8 +15,6 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/IYXrLPs.png",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="News" tvg-logo="https://spiderimg.amarujala.com/assets/images/2018/01/19/750x506/amar-ujala-logo_1516333530.jpeg" AMAR UJALA
-http://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="News" tvg-logo="https://assets.botallen.live/images/j/NcJQkFXEei.png",Zee News
 http://pn.tvott.info:80/477845056156344/477845056156344/83625
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NewsX_Logo.png" NEWS X
