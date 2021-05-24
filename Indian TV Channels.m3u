@@ -38,6 +38,13 @@ http://pn.tvott.info:80/477845056156344/477845056156344/83640
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8UG9dAT.png",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/dw-english/pos/dw-english_300.png",DW News (English)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/984024999962075143/KRHu2eLT_400x400.jpg",BBC News
+http://smart-hdip.com:6204/said/123/8589
+#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/984024999962075143/KRHu2eLT_400x400.jpg",BBC World News
+http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="Business news",ZEE BUSINESS
 http://pn.tvott.info:80/477845056156344/477845056156344/83548
 #EXTINF:-1 group-title="Business news",CNBC Awaaz
