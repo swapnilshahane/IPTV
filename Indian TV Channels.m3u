@@ -74,7 +74,7 @@ https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 https://m-c02-j2apps.s.loris.llnwd.net/hls/3724.SangeetMarathi.in_480p/index.m3u8
 
 #EXTINF:-1 group-title="Marathi News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/ABP_Majha_Logo.png", Abp Majha
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 #EXTINF:-1 group-title="Marathi News" tvg-logo="https://www.lokshahi.live/wp-content/uploads/2020/12/logo-png-01.png", Lokshahi News
 https://m-c06-j2apps.s.llnwi.net/hls/8002.LokshahiNews.in_480p/index.m3u8
 #EXTINF:-1 group-title="Marathi News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/TV9_Marathi.jpg", TV9 Marathi
